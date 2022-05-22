@@ -1,3 +1,60 @@
+## Etapas clásicas de la arquitectura de software
+Análisis
+Entender que se construirá, cubrir los requerimientos de negocios, de usuarios, funcionales y no funcionales, dando como resultado una compresión muy clara a resolver.
+
+## Diseño de la solución
+Propuesta a nivel diseño de solución, se puede trabajar en conjunto con un analista para plantear una posible solución, en modelo, documentación, la finalidad es un detalle de solución.
+
+## Desarrollo
+La etapa en la que desarrollador se construye el Software, se debe contar con el set de requerimientos necesarios.
+
+## Despligue
+La fase de operaciones, se requiere la infraestructura, roles de operación quienes se asegurarán de llevar el producto a producción(a disponibilidad para el usuario final)
+
+## Mantenimiento
+Dependen nuevamente de regresar a las fases de desarrollo y despliegue, en esta etapa se está atento a la detención de errores o mejoras simples, hasta llegar al producto final.
+
+Etapas de desarrollo de software: Flujo lineal donde cada etapa tienen procesos, una entrada y salida.
+
+Análisis de requerimientos
+
+Diseño de la solución
+
+Desarrollo y evaluación
+
+Despliegue
+
+Mantenimiento y Evolución
+
+Análisis de Requerimientos: Se inicia de un disparador; una idea, problema a resolver, alguna necesidad. Se entiende lo que se necesita desarrollar en base a requerimientos de negocios, de usuario y funcionales o no funcionales. Al finalizar la etapa se tiene una compresión clara del problema a resolver.
+
+a) Disparador
+b) Descubrimiento
+c) Análisis y documentación
+
+Diseño de la solución: Se tiene un análisis del problema y una propuesta de diseño a la solución del problema. En esta etapa el analista, arquitecto o equipo de desarrollo trabajan en conjunto para plantear cuales son las posibles soluciones a los problemas en diferentes alternativas como propuesta de valor: modelos, productos open source, documentación, frameworks.
+a Comprensión del problema
+b) Abstracción
+c) Modelado
+
+Desarrollo y evaluación: Los programadores desarrollan, implementan, evalúan, ejecutan tests para garantizar la solución de lo que se espera. Los criterios de aceptación de la solución necesitan un set de requerimientos necesarios para ser la conexión entre la etapa anterior y la de desarrollo y evaluación. Al finalizar esta etapa obtendremos un artefacto de software.
+a) Solución detallada
+b) Programación e integración
+c) Automatización de pruebas
+
+Despliegue: En esta etapa se necesita de la infraestructura, roles de operación para poder dárselo al usuario final. Un ejemplo puede ser una aplicación de WEB alojada en un servidor o una app móvil alojada en una app store.
+a) Artefacto de Software
+b) Infraestructura
+c) Operaciones
+
+Mantenimiento y Evolución: Se esta atento a la detección de errores y cualquier nueva funcionalidad a desarrollar para realizar cambios en la aplicación y volver a poner a disponibilidad del usuario. Es decir en esta etapa se mantiene el software hasta que se considere lo contrario.
+a) Software disponible
+b) Arreglos de errores
+c) Nuevas funcionalidades
+d) Sistema deprecado.
+
+
+![](https://img2.freepng.es/20190312/gjz/kisspng-systems-development-life-cycle-software-developmen-5c88754cec4020.6365760215524467969677.jpg)
 **Etapas del desarrollo de Software**
 
 * Análisis de Requerimientos
